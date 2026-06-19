@@ -1,0 +1,21 @@
+{
+  "id": "rubygame",
+  "name": "Rubygame",
+  "description": "Survival Gamemode by darkcenturies",
+  "addresses": [
+    "203.16.163.206:22950"
+  ],
+  "primaryAddress": "203.16.163.206:22950",
+  "minecraftVersions": [
+    "26.1.2"
+  ],
+  "primaryMinecraftVersion": "1.21.4",
+  "primaryColor": "#ff5555",
+  "secondaryColor": "#aaaaaa",
+  "primaryLanguage": "en",
+  "languages": ["en"],
+  "primaryRegion": "EU",
+  "regions": ["EU"],
+  "gameTypes": ["Survival"],
+  "crossplay": false
+}
